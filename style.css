@@ -106,7 +106,7 @@ body {
     min-width: 35rem;
     background-color: white;
     border-radius: 5px;
-    box-shadow: 1px 10px 25px -5px rgba(0, 40, 110, 0.418);
+    box-shadow: 1px 10px 25px -5px rgba(0, 40, 110, 0.212);
     justify-content: center;
     align-items: center;
     flex-direction: column;
